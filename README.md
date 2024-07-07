@@ -15,8 +15,8 @@ This Python tool assesses the strength of a password based on defined criteria.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/password-strength-checker.git
-   cd password-strength-checker
+   git clone https://github.com/ikramulmolla/Password-Strength-Chaker.git
+   cd Password-Strength-Checker
    python3 passwd.py
 
 ### How to Use:
